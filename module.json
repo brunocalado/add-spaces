@@ -1,0 +1,25 @@
+{
+  "id": "add-spaces",
+  "title": "Add Spaces to Journals",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Mestre Digital"
+    }
+  ],
+  
+  "description": "Fixes the visual issue in Journal View mode where empty lines (paragraphs) created with Enter are collapsed.",
+  "esmodules": [],
+  "styles": [
+    "styles/add-spaces.css"
+  ],
+  
+  "url": "https://github.com/brunocalado/add-spaces",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/add-spaces/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/add-spaces/zip/main"
+  
+}
