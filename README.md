@@ -13,5 +13,5 @@
 ## Manual Installation
 
 ```js
-https://raw.githubusercontent.com/brunocalado/daggerheart-fear-tracker/main/module.json
+https://raw.githubusercontent.com/brunocalado/add-spaces/main/module.json
 ```
